@@ -1,0 +1,13 @@
+.for{
+    margin: auto;
+    padding: 5% 10%;
+}
+.a{
+    font-size: 24px;
+    color: rgb(83, 90, 88);
+    border-bottom: 5opx;
+}
+.b{
+    width: 100%;
+    border: none;
+}
